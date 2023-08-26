@@ -6,4 +6,6 @@ ipykernel
 scikit-learn
 catboost
 xgboost
+dill
+pickle==3.10
 -e .
